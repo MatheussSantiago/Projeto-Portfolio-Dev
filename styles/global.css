@@ -19,9 +19,9 @@
   --gray-600: #E2E4E9;
 
   --Font-family: "asap", sans-serif;
-  --title-lg: 700 56px/120% var(--Font-family);
   --title-md: 700 24px/120% var(--Font-family);
   --title-sm: 700 16px/120% var(--Font-family);
+  --title-lg: 700 56px/120% var(--Font-family);
 
   --Font-family2: "Inconsolata", sans-serif;
   --subtitle: 400 20px/120% var(--Font-family2);
@@ -29,6 +29,9 @@
   --Font-family3: "Maven Pro", sans-serif;
   --text-md: 400 16px/140% var(--Font-family3);
   --text-sm: 400 14px/140% var(--Font-family3);
+
+  
+  --backgroud: background-image: url(/assets/images/Background_Intro.png); 
 
 }
 
